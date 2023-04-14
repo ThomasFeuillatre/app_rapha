@@ -71,5 +71,7 @@
     <p>brasseries industrielles survécurent à la prohibition12 et la bière américaine en vint dès lors à être méprisée, car elle ne présentait aucun caractèrebrasseries industrielles survécurent à la prohibition12 et la bière américaine en vint dès lors à être méprisée, car elle ne présentait aucun caractère</p>
     <p>distinctif hormis celui de n'être qu'un produit de consommation de masse. Les connaisseurs de cette boisson se plaignirent alors de sa mauvaise qualité</p>
     <p>ainsi que du manque de variété de la production. Certains jugent qu'il fallut attendre les années 1980 pour en arriver à considérer qu'un minimum de</p>
-    <p></p>
+    <p>savoir-faire fut alors récupéré par les <a href="https://fr.wikipedia.org/wiki/Brasseur" target="_blank">brasseurs</a> américains. Le <a href="https://fr.wikipedia.org/wiki/Ma%C3%AEtre_brasseur" target="_blank">maîte-brasseur</a> Fritz Maytag sera alors crédité pour le retour et renouveau de la</p>
+    <p>tradition du brassage de la bière aux États-Unis et la révolution provoquée par le retour des <a href="https://fr.wikipedia.org/wiki/Microbrasserie" target="_blank">microbrasseries</a> sortit l'industrie brassicole américaine de son</p>
+    <p>impasse et état de décadence antérieur.</p>
 </template>
